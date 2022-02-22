@@ -1,4 +1,4 @@
-# RoboND-Term1-P2-Go-Chase-It
+# Go-Chase-It
 Project 2 of Udacity Robotics Software Engineer Nanodegree Program
 ![Overview](https://github.com/RishabhChangwani/Robotics-Software-Engineer/blob/main/Go_Chase_It_/Screen%20recording/Screenrecord.gif)  
 ## Overview  
