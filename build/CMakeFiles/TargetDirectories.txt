@@ -1,3 +1,0 @@
-/home/parallels/Desktop/udacity/Project_1/build/CMakeFiles/rebuild_cache.dir
-/home/parallels/Desktop/udacity/Project_1/build/CMakeFiles/edit_cache.dir
-/home/parallels/Desktop/udacity/Project_1/build/CMakeFiles/hello.dir
