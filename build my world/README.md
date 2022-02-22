@@ -1,4 +1,4 @@
-# RoboND-Term1-P1-Build-My-World
+# Build-My-World
 Project 1 of Udacity Robotics Software Engineer Nanodegree Program
 
 ![screenshot](https://github.com/RishabhChangwani/Robotics-Software-Engineer/blob/main/build%20my%20world/Screenshots/Screen%20Shot%202022-02-22%20at%2011.55.23%20AM.png)  
